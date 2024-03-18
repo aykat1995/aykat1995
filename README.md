@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src="[[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZvbDZ2ajhubzBxODN3N2d6ZmE5YWUxNG4zODhwYXV6dDN1NGc0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pua280ZWFoZjQ3bXdxcHpoY3ZoMXJtZTF0ZmN0dzBqZ2FwZmlvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZvbDZ2ajhubzBxODN3N2d6ZmE5YWUxNG4zODhwYXV6dDN1NGc0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100"/>
 </div>
 <h3>Контакты:</h3>
 <ul>
