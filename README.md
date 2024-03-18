@@ -5,7 +5,7 @@
 ### Привет, меня зовут Ай-Кат, я junior front-end разработчик👋
 <h3>Мои контакты:</h3>
 <ul>
-  <li>telegram: <a href="https://t.me/aikat_ch">t.me/aikat_ch?</a></li>
+  <li>telegram: <a href="https://t.me/aikat_ch">t.me/aikat_ch</a></li>
 </ul>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
