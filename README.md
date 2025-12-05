@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzQ1cGdxMHBvc2JiZmx6OWg3N2VwbnFuMnRqeXFxOXRjN3kwc3dhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qT3NpahR7tGnOqqjng/giphy.gif" width="100"/>
 </div>
 
-### Привет, меня зовут Ай-Кат, я junior front-end разработчик👋
+### Привет, меня зовут Ай-Кат, я front-end разработчик👋
 <h3>Мои контакты:</h3>
 <ul>
   <li>telegram: <a href="https://t.me/aikat_ch">t.me/aikat_ch</a></li>
